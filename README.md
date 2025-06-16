@@ -32,3 +32,7 @@ Maximize profit for a factory that produces two products (A and B) under resourc
 
 ### 🎉 Step 3: Submit!
 - ✅ Push to GitHub and share the link 
+
+### 🔍 Output Preview
+
+![Optimization Result](output.png)
