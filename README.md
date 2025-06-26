@@ -1,5 +1,18 @@
 # Task-4: Optimization Using Linear Programming
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: WUNA AKHILESH
+
+*INTERN ID*: CT04DF985
+
+*DOMAIN*: DATA SCIENCE
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTHOSH KUMAR
+
+
 ## 📌 Objective
 Solve a business problem using Linear Programming and Python's PuLP library.
 
